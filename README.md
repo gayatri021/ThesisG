@@ -72,12 +72,12 @@
 
 Project developed under the course AI in Urbanism 2022-23 in [IAAC](https://iaac.net/).
 
-__Description:__ one sentence description of the project containing why, what, how (where and for whom) \
- __Problem statement:__ which problem the project solves, _why_ you are doing it. \
- __Idea:__ _what_ you are doing to solve the problem \
- __Solution:__ _how_ you are solving the problem, the method \
- __Place:__ _where_ \
- __Beneficiaries:__ the users of the project, _who_ will benefit from it.
+__Description:__ A Game to help participants visualise their ideas in City Planning - Codesign and Coproduce \
+ __Problem statement:__ Solves the issue of boring surveys \
+ __Idea:__ A visualising tool using gamification and generative Ai \
+ __Solution:__ Generative AI using gpt and diffusion model for participatory Planning \
+ __Place:__ Barcelona \
+ __Beneficiaries:__ City Council, Citizens, Small Business Owners.
 
 
 
@@ -85,7 +85,7 @@ __Description:__ one sentence description of the project containing why, what, h
 
 ### Intro
 
-A longer description of the project, not more than 150 words.
+Introducing "GenCity: Envisioning Urban Futures," an exciting game that takes city planning to new heights. GenCity is a cutting-edge, interactive tool designed to empower participants in Barcelona to visualize and co-create the future of their city.Powered by advanced algorithms and the fusion of GPT and diffusion models, GenCity enables players to generate realistic, data-driven visualizations of their ideas. By transforming abstract concepts into tangible representations, participants can effectively communicate their visions for a vibrant and sustainable urban environment.The game serves as a collaborative platform, bridging the gap between decision-makers and the community. Through active engagement and shared ownership, participants can contribute their perspectives and insights to shape the city's future.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
