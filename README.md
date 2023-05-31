@@ -13,20 +13,20 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/GITHUBNAME/PROJECTNAME">
+  <a href="https://github.com/GITHUBNAME/GenCity">
     <img src="assets/logo.svg" alt="Logo" width="150">
   </a>
 
-  <h3 align="center"> PROJECTNAME </h3>
+  <h3 align="center"> GenCity </h3>
 
   <p align="center" style="font-weight: bold;">
     IAAC: AI in Urbanism 2022-23
     <br />
-    <a href="https://colab.research.google.com/github/GITHUBNAME/PROJECTNAME/blob/main/src/NOTEBOOKNAME.ipynb">View Demo</a>
+    <a href="https://colab.research.google.com/github/GITHUBNAME/GenCity/blob/main/src/NOTEBOOKNAME.ipynb">View Demo</a>
     ·
-    <a href="https://github.com/GITHUBNAME/PROJECTNAME/issues">Report Bug</a>
+    <a href="https://github.com/GITHUBNAME/GenCity/issues">Report Bug</a>
     ·
-    <a href="https://github.com/GITHUBNAME/PROJECTNAME/issues">Request Feature</a>
+    <a href="https://github.com/GITHUBNAME/GenCity/issues">Request Feature</a>
   </p>
 </div>
 
